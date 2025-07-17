@@ -26,7 +26,7 @@ Projet inspiré de *Dr. Stone* : une IA explore un monde semi-ouvert à la reche
 
 ---
 
-### 🎣 Fish Clicker (Unity – projet mobile)
+### 🎣 [Fish Clicker (Unity – projet mobile)](https://github.com/Draggyfire/FishClicker)
 Un jeu de pêche **clicker en 2D**, fun et progressif, pensé pour Android.
 
 - 👆 Système de clicker simple et addictif  
